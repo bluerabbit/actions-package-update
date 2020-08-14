@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:12
 
 LABEL version="0.10.0"
 LABEL repository="https://github.com/taichi/actions-package-update"
